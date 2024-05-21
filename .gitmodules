@@ -1,0 +1,12 @@
+[submodule "KR260-XDC"]
+	path = KR260-XDC
+	url = https://github.com/Mikeantabian/KR260-XDC
+[submodule "KR260_PL_UART"]
+	path = KR260_PL_UART
+	url = https://github.com/Mikeantabian/KR260_PL_UART
+[submodule "KR260-FreeRTOS"]
+	path = KR260-FreeRTOS
+	url = https://github.com/Mikeantabian/KR260-FreeRTOS
+[submodule "Custom_AXI_IP"]
+	path = Custom_AXI_IP
+	url = https://github.com/Mikeantabian/Custom_AXI_IP
