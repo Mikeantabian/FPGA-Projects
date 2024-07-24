@@ -13,3 +13,6 @@
 [submodule "FPGA-Memory-Game"]
 	path = FPGA-Memory-Game
 	url = https://github.com/Mikeantabian/FPGA-Memory-Game
+[submodule "Self-Contained-Modules"]
+	path = Self-Contained-Modules
+	url = https://github.com/Mikeantabian/Self-Contained-Modules
